@@ -1,3 +1,3 @@
 # Notebooks
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lihewang/Notebooks/HEAD)
-https://mybinder.org/v2/gh/lihewang/Notebooks/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lihewang/Notebooks/tree/main/HEAD?labpath=Mobilitics.ipynb)
+
