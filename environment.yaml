@@ -1,0 +1,5 @@
+name: env
+dependencies:
+  - numpy
+  - matplotlib
+  - ipywidgets
